@@ -92,9 +92,13 @@
 // ]
 
 
-const text2 = {
-    name : ['Jay','Eli','Sanchit']
-}
+// const text2 = {
+//     name : ['Jay','Eli','Sanchit']
+// }
 
-text2.name.splice(0,3,1,2,3)
-console.log(text2)
+// text2.name.splice(0,3,1,2,3)
+// console.log(text2)
+
+
+// DAY 3
+
